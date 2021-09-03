@@ -18,7 +18,7 @@ Projenin canlı demosunu bu [linke](http://fast-typing.ueuo.com/) tıklayarak ul
 Projenizin yerel makinenizde çalışabilmesi için NPM ve Node.js kurulu olmalıdır. Aşağıda kurulum için gerekli linke ulaşabilirsiniz. NodeJS içerisinde npm'i barındırdığı için node.js kurulması yeterli olacaktır. Buna rağmen iki indirme linki de aşağıda verilmiştir.
 
 - NodeJs kurulumu için: [`https://nodejs.dev/download/`](https://nodejs.dev/download/)
-- NPM installation: [`https://www.npmjs.com/get-npm`](https://www.npmjs.com/get-npm)
+- NPM kurulumu için: [`https://www.npmjs.com/get-npm`](https://www.npmjs.com/get-npm)
 
 ## Projeyi Çalıştırma
 İlk olarak projeyi klonlayın veya dosyaları `.zip` olarak indirip dizine çıkarınız. Klonlamak için: 
