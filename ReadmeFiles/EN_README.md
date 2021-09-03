@@ -19,7 +19,7 @@ This project created an application that aims to increase the keyboard typing sp
 
  NPM and Node.js must be installed for your project to run on your local machine. Below are the necessary links for installation:
  
-- NodeJs kurulumu için: [`https://nodejs.dev/download/`](https://nodejs.dev/download/)
+- NodeJs installation: [`https://nodejs.dev/download/`](https://nodejs.dev/download/)
 - NPM installation: [`https://www.npmjs.com/get-npm`](https://www.npmjs.com/get-npm)
 
 ## Run the Project
